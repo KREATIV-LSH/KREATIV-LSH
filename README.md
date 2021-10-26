@@ -4,7 +4,7 @@
 14y old from Swizerland 🇨🇭   
 likes to code in free time🙂  
 
-💻 Main Languages 💻:  
+💻 Main Languages 💻:
 * ☕ Java  
 * 🐍 Python  
 
