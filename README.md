@@ -13,7 +13,7 @@ likes to code in free time🙂
 * Gigabyte GeForce RTX 2070 8GB
 * Corsair Vengeance RGB PRO SL 2x16GB
 * Venatos Northern Glow TKL Optical Keyboard
-* Logitech G403 - Gaming-Mice
+* Logitech G403 - Gaming-Mouse
 
 ⚡ Fun fact:
 * Im coding since I am 11 years old
