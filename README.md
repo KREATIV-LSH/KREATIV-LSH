@@ -9,7 +9,7 @@ likes to code in free time🙂
 * 🐍 Python  
 
 🖥 Setup 🖥:
-* AMD Ryzen 3 2200G
+* AMD Ryzen 9 5900X
 * Gigabyte GeForce RTX 2070 8GB
 * Corsair Vengeance RGB PRO SL 2x16GB
 * Venatos Northern Glow TKL Optical Keyboard
