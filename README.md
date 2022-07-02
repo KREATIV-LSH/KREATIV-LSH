@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi, I`m LSH!
+Hi, I'm LSH!
 
-I`m 15y old and live in Swizerland
+I'm 15y old and live in Swizerland
 I like to code since im 11/12y old
 
 
